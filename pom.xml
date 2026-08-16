@@ -13,7 +13,7 @@
 
     <groupId>com.company.store</groupId>
     <artifactId>api-user-sdk</artifactId>
-    <version>1.0.19-SNAPSHOT</version>
+    <version>1.0.20-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
